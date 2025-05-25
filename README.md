@@ -1,2 +1,2 @@
 # The_Logicion
-Adiya
+Aditya
